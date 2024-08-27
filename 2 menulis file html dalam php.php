@@ -1,12 +1,13 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <title><?php echo "Belajar PHP" ?></title>
-    </head>
-    <body>
-        <?php
-            echo "kita sedang belajar PHP<br>";
-            echo "<p>Belajar PHP hingga jadi master</p>";
-        ?>
-    </body>
+<head>
+<title><?php echo "Belajar PHP" ?></title>
+</head>
+<body>
+<?php
+ echo "kita sedang belajar PHP<br>";
+echo "<p>Belajar PHP hingga jadi master</p>";
+echo "<p>by :alika naswa sabila</p>";
+?>
+</body>
 </html>
