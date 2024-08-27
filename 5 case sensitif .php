@@ -2,7 +2,7 @@
 
 $nama = "alika naswa sabila";
 $NAMAKAWANSAYA= "putri nayla";
-$umur =16tahun;
+$umur =16;
 const INI_KOSTANTA =123;
 $ini_variabel = 23;
 $iniJugaVariabel = 49;
