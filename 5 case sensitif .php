@@ -11,14 +11,14 @@ $tanggallahir = 23;
 
 echo " ==== mencetak variabel ==== ";
 echo "<p>Nama saya adalah $nama";
-echo "<p>Nama ketua kelas adalah $NAMAKAWANSAYA";
+echo "<p>Nama kawan saya adalah $NAMAKAWANSAYA";
 echo "<p>Umur saya adalah $umur";
 
 echo 
 
     "<p>coba pakai blok program",
     "<p>Nama saya adalah $nama",
-    "<p>Nama ketua kelas adalah $NAMAKAWANSAYA",
+    "<p>Nama kawan saya adalah $NAMAKAWANSAYA",
     "<p>Umur saya adalah $umur";
 
 ?>
