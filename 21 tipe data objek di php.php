@@ -1,2 +1,2 @@
 
-$user = new User();
+$nama = alika;
